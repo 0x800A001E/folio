@@ -1,4 +1,4 @@
-![248433934-7886223b-c1d1-4260-82aa-da5741f303bb](https://github.com/0x800A001E/Portfolio/blob/a23e708bd5528d2ddff95cf39a0e0f0ae649a16a/portfolio.png)
+![portfolio-image](https://github.com/0x800A001E/folio/blob/79c3b3a29d0a31e270049c63e86593de6d7f23e4/portfolio.png)
 > [!Note]
 > **Experience:** 2 years<br>
 > **Skills:** Programming, UI/UX.
