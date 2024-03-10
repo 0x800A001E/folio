@@ -1,7 +1,8 @@
 ![portfolio-image](https://github.com/0x800A001E/folio/blob/79c3b3a29d0a31e270049c63e86593de6d7f23e4/portfolio.png)
 > [!Note]
 > **Experience:** 2 years<br>
-> **Skills:** Programming, UI/UX.
+> **Skills:** Programming, UI/UX.<br>
+> **Time-Zone:** GMT +3 (Moscow, Russia)
 
 ## 🖥️ My Works
 
