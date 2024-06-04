@@ -3,7 +3,7 @@
 > **Skills:** Programming, UI/UX.<br>
 > **Time-Zone:** GMT +3 (Moscow, Russia)
 
-## 🖥️ My Works
+## My Works
 
  - **Camera Shaking**<br>
 Video: [Click!](https://i.imgur.com/BuyIHhr.mp4)
@@ -17,5 +17,5 @@ Video: [Click!](https://imgur.com/6fR2ygd)<br> (Turn on the sound in the right u
 Video: [Click!](https://imgur.com/a/T9FZu7O)
 ### And many other systems!
 
-## 🤓 Experience Works
+## Experience Works
 
