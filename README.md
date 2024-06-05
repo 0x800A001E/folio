@@ -9,8 +9,6 @@
 Video: [Click!](https://i.imgur.com/BuyIHhr.mp4)
  - **Settings Menu**<br>
 Video: [Click!](https://i.imgur.com/LZUEFMo.mp4)
- - **Tutorial System (Over mega shitty)**<br>
-Video: [Click!](https://i.imgur.com/DG7JTPT.mp4)<br>
  - **Adaptive to sound camera**<br>
 Video: [Click!](https://imgur.com/6fR2ygd)<br> (Turn on the sound in the right upper corner)<br>
  - **Audio Player**<br>
@@ -19,3 +17,6 @@ Video: [Click!](https://imgur.com/a/T9FZu7O)
 
 ## Experience Works
 
+ - **📦 Take the Box**<br>
+Video: [Click!](https://imgur.com/a/T9FZu7O)<br>
+Experience Link: [Click!](https://www.roblox.com/games/17650253072)
