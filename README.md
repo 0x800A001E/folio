@@ -17,7 +17,7 @@ Video: [Click!](https://imgur.com/a/T9FZu7O)
 
 ## Experience Works
 
-![portfolio-image](https://github.com/0x800A001E/folio/blob/main/assets/f3773ae4-7130-41ad-b171-89a0883c74fc.png)
+<img src="https://github.com/0x800A001E/folio/blob/main/assets/f3773ae4-7130-41ad-b171-89a0883c74fc.png" width="100" height="100">
  - **📦 Take the Box** [UNCOPYLOCKED]<br>
 Video: [Click!](https://youtu.be/Z3rALMVQYbs)<br>
 Experience Link: [Click!](https://www.roblox.com/games/17650253072)
